@@ -1,7 +1,5 @@
 # Drug-recommendation-system-in-general-medical-emergencies
-* Developed a **Drug Recommendation System** to assist in general medical emergencies when doctors are unavailable.
-* Used **machine learning algorithms** like Decision Tree, Random Forest, and SVM to predict suitable medications.
-* The system analyzes **patient symptoms, medical history, and allergies** for personalized drug recommendations.
-* Implemented **data preprocessing and class balancing techniques** to improve prediction accuracy.
-* Built a **web-based interface** using Flask, HTML, CSS, and JavaScript for real-time recommendations.
-* Collected **user feedback** to evaluate system accuracy and improve decision-making.
+*Developed a machine learning–based drug recommendation system that suggests appropriate medications based on patient symptoms and medical history. Implemented end-to-end data preprocessing, feature engineering, and model training using Python and scikit-learn. Designed the system to support data-driven clinical decision-making by identifying patterns in healthcare datasets and improving recommendation accuracy.
+
+*Tech Stack: Python, Pandas, NumPy, scikit-learn
+*Key Skills: Data preprocessing, ML models, problem solving, backend logic
