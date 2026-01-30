@@ -1,8 +1,8 @@
 # Drug-recommendation-system-in-general-medical-emergencies
-## Description:
+#### Description:
 * Developed an end-to-end machine learning–based drug recommendation system to assist clinical decision-making in general medical emergencies. The system analyzes patient symptoms and medical history to recommend appropriate medications with improved accuracy and reliability.
 
-## Key Contributions:
+#### Key Contributions:
 
 * Designed and implemented data preprocessing pipelines to clean and standardize healthcare datasets.
 
@@ -14,5 +14,5 @@
 
 Demonstrated real-world application of data-driven logic, algorithmic thinking, and backend processing.
 
-## Tech Stack: Python, scikit-learn, Pandas, NumPy
-## Concepts: Machine Learning, Data Preprocessing, Model Evaluation, Software Design
+#### Tech Stack: Python, scikit-learn, Pandas, NumPy
+#### Concepts: Machine Learning, Data Preprocessing, Model Evaluation, Software Design
