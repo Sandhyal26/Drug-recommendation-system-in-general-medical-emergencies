@@ -1,8 +1,6 @@
 # Drug-recommendation-system-in-general-medical-emergencies
-#### Description:
-* Developed an end-to-end machine learning–based drug recommendation system to assist clinical decision-making in general medical emergencies. The system analyzes patient symptoms and medical history to recommend appropriate medications with improved accuracy and reliability.
 
-#### Key Contributions:
+* Developed an end-to-end machine learning–based drug recommendation system to assist clinical decision-making in general medical emergencies. The system analyzes patient symptoms and medical history to recommend appropriate medications with improved accuracy and reliability.
 
 * Designed and implemented data preprocessing pipelines to clean and standardize healthcare datasets.
 
